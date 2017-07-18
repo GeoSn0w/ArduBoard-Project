@@ -13,3 +13,7 @@ The user interface looks like this, and it is of course, customizable:
 
 The C# tool also prints the current temperature in the Notification Tray on Windows. You can strip that code off if you don't need it.
 <center><img src="https://user-images.githubusercontent.com/15067741/28342219-d899780a-6c1f-11e7-8431-f8b316c3d622.JPG"></center>
+
+<B>Questions</B>
+* Twitter: https://twitter.com/FCE365
+* YouTube: https://youtube.com/fce365official
