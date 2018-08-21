@@ -28,7 +28,7 @@ namespace ArduBoard_Plus
 
         private void button1_Click(object sender, EventArgs e)
         {
-           
+           // Should have removed this.
         }
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
